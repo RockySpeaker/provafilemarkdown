@@ -20,7 +20,7 @@
 ---
 
 ## 🖼️ Immagine
-![Logo di Minecraft]
+![Logo di Minecraft](minecraft.jpeg)
 
 ---
 
